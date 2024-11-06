@@ -1,0 +1,6 @@
+@XmlaApi_HostAddress = http://localhost:5129
+
+GET {{XmlaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
