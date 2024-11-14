@@ -4,5 +4,6 @@ namespace XmlaApi.Models
     {
         public string Workspace { get; set; }
         public string DatasetName { get; set; }
+        public string BearerToken { get; set; }
     }
 }

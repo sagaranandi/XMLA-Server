@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anandis/InfoBridge Projects/XMLA Server/XmlaApi/XmlaApi.csproj": {}
+    "C:\\Users\\devtest3\\source\\repos\\XMLA-Server\\XmlaApi\\XmlaApi.csproj": {}
   },
   "projects": {
-    "/Users/anandis/InfoBridge Projects/XMLA Server/XmlaApi/XmlaApi.csproj": {
+    "C:\\Users\\devtest3\\source\\repos\\XMLA-Server\\XmlaApi\\XmlaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anandis/InfoBridge Projects/XMLA Server/XmlaApi/XmlaApi.csproj",
+        "projectUniqueName": "C:\\Users\\devtest3\\source\\repos\\XMLA-Server\\XmlaApi\\XmlaApi.csproj",
         "projectName": "XmlaApi",
-        "projectPath": "/Users/anandis/InfoBridge Projects/XMLA Server/XmlaApi/XmlaApi.csproj",
-        "packagesPath": "/Users/anandis/.nuget/packages/",
-        "outputPath": "/Users/anandis/InfoBridge Projects/XMLA Server/XmlaApi/obj/",
+        "projectPath": "C:\\Users\\devtest3\\source\\repos\\XMLA-Server\\XmlaApi\\XmlaApi.csproj",
+        "packagesPath": "C:\\Users\\devtest4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devtest3\\source\\repos\\XMLA-Server\\XmlaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/anandis/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\devtest4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,6 +50,10 @@
               "target": "Package",
               "version": "[1.1.2.1, )"
             },
+            "DuckDB.NET.data.full": {
+              "target": "Package",
+              "version": "[1.1.2.1, )"
+            },
             "Microsoft.AnalysisServices.AdomdClient": {
               "target": "Package",
               "version": "[19.86.2.1, )"
@@ -58,6 +65,18 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.66.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -83,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
