@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\XmlaApi",
+    "\\XmlaApi\\Controllers",
+    "\\XmlaApi\\Middleware",
+    "\\XmlaApi\\Models",
+    "\\XmlaApi\\obj",
+    "\\XmlaApi\\Properties",
+    "\\XmlaApi\\Services",
+    "\\XmlaApi\\Services\\XmlaServcie"
+  ],
+  "PreviewInSolutionExplorer": false
+}

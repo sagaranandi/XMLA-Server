@@ -8,8 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="DuckDB.NET.Data" Version="1.1.2.1" />
+    <PackageReference Include="DuckDB.NET.data.full" Version="1.1.2.1" />
     <PackageReference Include="Microsoft.AnalysisServices.AdomdClient" Version="19.86.2.1" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.66.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.10" />
   </ItemGroup>
